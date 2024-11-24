@@ -1,7 +1,10 @@
-👋 Hi, I'm Cecília, 21 years old, and a Computer Science student at UFOP (admitted in 2022.2).
-💞️ I have a strong interest in programming and aim to pursue a career in Front-End Development. I strive to learn as much as possible to gain expertise in this field.
-👩‍💻 Skills: HTML, CSS, C, JavaScript, Java, C++, React.js, MySQL, Node.js, PostgreSQL.
-👩‍💻 Currently learning C#.
+<p>👋 Hi, I'm Cecília, 21 years old, and a Computer Science student at UFOP (admitted in 2022.2).</p>
+
+
+<p>💞️ I have a strong interest in programming and aim to pursue a career in Front-End Development. I strive to learn as much as possible to gain expertise in this field.</p>
+
+<p>👩‍💻 Skills: HTML, CSS, C, JavaScript, Java, C++, React.js, MySQL, Node.js, PostgreSQL.</p>
+<p>👩‍💻 Currently learning C#.</p>
 
 
 <div>
