@@ -4,7 +4,7 @@
 <p>💞️ I have a strong interest in programming and aim to pursue a career in Front-End Development. I strive to learn as much as possible to gain expertise in this field.</p>
 
 <p>👩‍💻 Skills: HTML, CSS, C, JavaScript, Java, C++, React.js, MySQL, Node.js, PostgreSQL.</p>
-<p>👩‍💻 Currently learning C#.</p>
+<p>👩‍💻 Currently learning C# and RabbitMQ in Java</p>
 
 
 <div>
